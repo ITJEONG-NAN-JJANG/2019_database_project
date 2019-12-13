@@ -1,0 +1,17 @@
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\A Electronics Staff Program.exe.config
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\A Electronics Staff Program.exe
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\A Electronics Staff Program.pdb
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\Google.Protobuf.dll
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\MySql.Data.dll
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\Renci.SshNet.dll
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\Google.Protobuf.xml
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\MySql.Data.xml
+C:\github\2019_database_project\A Electronics Staff Program\bin\Debug\Renci.SshNet.xml
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A Electronics Staff Program.csprojAssemblyReference.cache
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A_Electronics_Staff_Program.Form1.resources
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A_Electronics_Staff_Program.Properties.Resources.resources
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A Electronics Staff Program.csproj.GenerateResource.cache
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A Electronics Staff Program.csproj.CopyComplete
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A Electronics Staff Program.exe
+C:\github\2019_database_project\A Electronics Staff Program\obj\Debug\A Electronics Staff Program.pdb
