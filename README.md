@@ -15,7 +15,7 @@
 
 | MySql | csharp |
 | :--------: | :--------: |
-|   <img src="/.images/mysql.svg" width="200"/>   |   <img src="/.images/csharp.svg" width="200" height="200"/>    |
+|   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/cd763909be113b37c44ab5490a4e9007e2c00920/.images/mysql.svg" width="200"/>   |   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/cd763909be113b37c44ab5490a4e9007e2c00920/.images/csharp.svg" width="200" height="200"/>    |
 
 <br>
 
